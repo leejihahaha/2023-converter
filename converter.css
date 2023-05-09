@@ -1,0 +1,26 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #5289c0;
+  background-color: rgb(208, 221, 241);
+  margin: 0;
+}
+.br1 {
+  color: #8bbae9;
+}
+.select_bar {
+  color: #296097;
+  font-size: 13px;
+
+  width: 200px;
+  align-items: center;
+  font-weight: bold;
+  text-align-last: center;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
